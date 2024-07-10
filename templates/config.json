@@ -1,0 +1,20 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/blogforcoders",
+        "prod_uri": "mysql://root:@localhost/blogforcoders",
+        "fb_uri": "https://www.facebook.com/",
+        "twitter_uri": "https://twitter.com/?lang=en",
+        "github_uri": "https://github.com/",
+        "blog_name": "BlogForCoders",
+        "title_line": "It's Become Your Favorite",
+        "gmail_user": "tempmail@gmail.com",
+        "gmail_password": "1234",
+        "favicon": "static/assets/favicon.ico",
+        "about_txt": "Hi my name is Palkesh Prajapati. I am 18 year old. This is my first blog website and also first backend website",
+        "no_of_posts": 2,
+        "admin_user": "Palkesh",
+        "admin_password": "Palkesh@123",
+        "upload_location": "F:\\EVERYTHING\\Work Folder\\Palkesh\\Diploma\\6th_Sem_Diploma\\Mazer Project\\Flask_learn_Project\\uploades"
+    }
+}
